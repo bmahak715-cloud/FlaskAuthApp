@@ -1,33 +1,33 @@
-# Flask Authentication App
+Flask Authentication App
 
-## 👩‍💻 Developed By
+Developed By
 Mahak Bhatia
 
-## 📌 Features
+Features
 - User Registration
 - Login System
 - Logout
 - Password Hashing using bcrypt
 - Session Management
 
-## ✅ Backend Validation Implemented
+Backend Validation Implemented
 - Name cannot be empty
 - Email cannot be empty
 - Password cannot be empty
 - Password must be at least 6 characters
 - Email must be unique
 
-## 🛠 Tech Stack
+Tech Stack
 - Flask
 - SQLite
 - SQLAlchemy
 - Bcrypt
 - Gunicorn
 
-## 🌍 Deployment
+Deployment
 Deployed on Render
 
-## 🚀 How to Run Locally
+How to Run Locally
 1. Install requirements  
    pip install -r requirements.txt  
 
